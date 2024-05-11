@@ -87,10 +87,10 @@ nav {
 header {
   height: 100vh;
   background-image: linear-gradient(
-      rgba(10, 44, 158, 0.5),
-      rgba(184, 5, 5, 0.5)
+      rgba(16, 19, 29, 0.5),
+      rgba(119, 37, 37, 0.5)
     ),
-    url("bangalore.jpg");
+    url("ubcity.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
